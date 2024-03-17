@@ -1,0 +1,3 @@
+plotly
+mysqlclient
+SQLAlchemy
